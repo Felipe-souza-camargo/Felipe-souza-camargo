@@ -1,6 +1,6 @@
 ## Olá!! Tudo bem? 👋
  
- ### Eu sou o Felipe de Souza Camargo, tenho 22 anos e aqui está algumas informações sobre mim:
+ ### Eu sou o Felipe de Souza Camargo, tenho 24 anos e aqui está algumas informações sobre mim:
  
 - 🎓 Estudo Design Digital na Universidade Anhembi Morumbi
 - 🏢 Atualmente estou trabalhando na PlanetsWeb como Designer UX/UI -
@@ -12,7 +12,7 @@
 
 ## Hi there, how are you? 👋
  
- ### My name is Felipe de Souza Camargo, now I have 22 years old, and here is some information about myself:
+ ### My name is Felipe de Souza Camargo, now I have 24 years old, and here is some information about myself:
  
 - 🎓 I study Digital Design at Anhembi Morumbi University
 - 🏢 Currently, I work at Planets Web as a UX/UI Designer
